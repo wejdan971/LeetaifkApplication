@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LeetaifkApplication</string>
+    <string name="welcome">كـن معي في عالمي</string>
+    <string name="you_are">هل أنت </string>
+    <string name="gurdain">وصي الطفل</string>
+    <string name="VBT">أخصائي</string>
+    <string name="next">التالي</string>
+    <string name="login_page">تسجيل الدخول</string>
+    <string name="username1">اسم المستخدم</string>
+    <string name="password1">الرقم السري</string>
+    <string name="login1">دخول</string>
+    <string name="do_you_hava_account">ليس لديك حساب؟</string>
+    <string name="new_account">انشئ حسابًا</string>
+    //
+    <string name="signup_page">التسجيل</string>
+    <string name="username_g">اسم المستخدم</string>
+    <string name="firstname_g">الاسم الأول</string>
+    <string name="lastname_g">الاسم الأخير</string>
+    <string name="email_g">البريد الألكتروني</string>
+    <string name="password_g">الرقم السري</string>
+    <string name="gender_g">الجنس</string>
+    <string name="relation_g">صلة القرابة</string>
+    <string name="city_g">المدينة</string>
+    <string name="phone_g">رقم الجوال</string>
+
+
+</resources>
